@@ -8,7 +8,9 @@ body {
 h1 {
 	  font: 400 3em ARIAL, sans-serif ;		
       background-image:url("multimedia/TituloBackground.png");
-	  background-color:#000000;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-color:#000000;
       color: #FFFFFF;
       text-transform: uppercase;
     
