@@ -37,6 +37,7 @@ section.lista{
 figure.portada{
 	position:absolute;
 	text-align:center;
+	max-width:100%;
 }
 
 
