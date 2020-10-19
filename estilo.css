@@ -45,7 +45,7 @@ h1 {
 	  
   }
   
-  section.lista{
+  li{
 	  
 	  list-style-type: square;
 	  font:1em helvetica, sans-serif;
