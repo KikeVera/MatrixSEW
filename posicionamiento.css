@@ -72,7 +72,7 @@ table.banda{
 
  #menu{
 	 position: relative;
-	 table-layout: fixed;
+	 table-layout: absolute;
 	 width:100%;
 	 text-align:center;
 	 
