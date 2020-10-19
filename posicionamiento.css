@@ -19,7 +19,7 @@ h2{
 
 h3{
 	position:relative;
-	text-align:center;
+	text-align:left;
 }
 
 h4{
@@ -85,7 +85,13 @@ audio{
  }
  
 @media (max-width: 650px) {
-     table {
+     table.banda {
+       display: block;
+       overflow-x: auto;
+     }
+	
+@media (max-width: 350px) {
+     #menu {
        display: block;
        overflow-x: auto;
      }
