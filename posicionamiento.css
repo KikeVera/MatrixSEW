@@ -2,7 +2,7 @@ body{
 	 position:relative;
 	 text-align:left;
 	line-height: 1.5;
-	max-width:100%;
+	
 }
 
 h1{
@@ -30,6 +30,7 @@ h4{
 section.lista{
 	position:relative;
 	text-align:left;
+	
 }
 
 
@@ -40,22 +41,33 @@ figure.portada{
 	position:relative;
 	text-align:center;
 	
+	
 }
 
+img{
+max-width:100%;
+}
 
+video{
+max-width:100%;
+}
 
+table{
+max-width:100%;
+}
 
 
 figure.trailer{
 	position:relative;
 	text-align:center;
+	
 }
 
 table.banda{
 	 
 	 position:relative;
 	 text-align:center;
-	
+	max-width:100%;
 	  margin:0 auto;
 	
  }
