@@ -84,6 +84,18 @@ audio{
 	 height:1em;
  }
  
+@media (max-width: 650px) {
+     table {
+       display: block;
+       overflow-x: auto;
+     }
+	
+	
+}
+
+	
+	
+}
  
  
  
