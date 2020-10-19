@@ -1,7 +1,6 @@
 body {
 	  
       font:400 1em ARIAL, sans-serif; /*Familia sans-serif*/
-      line-height: 1.5;
       color: #000000;
 	  background-color:#E3E4E5;
 	  
@@ -9,12 +8,13 @@ body {
 h1 {
 	  font: 400 3em ARIAL, sans-serif ;		
       background-image:url("multimedia/TituloBackground.png");
-	  background-color:#E3E4E5;
+	  background-color:#000000;
       color: #FFFFFF;
       text-transform: uppercase;
-      padding: 1.8em 1em;
-      text-align: center;     
+    
   }
+  
+  
   
   
   h2{
@@ -43,7 +43,7 @@ h1 {
 	  
   }
   
-  ul{
+  section.lista{
 	  
 	  list-style-type: square;
 	  font:1em helvetica, sans-serif;
@@ -58,7 +58,7 @@ h1 {
 	  background-color:#BDBDBD;
 	  font: 400 1.05em Tahoma, sans-serif;
 	  color: #000000;		
-	  text-align: center;
+	 
 	  
 	  
 	  
@@ -85,27 +85,19 @@ h1 {
   }
   
   
-  audio{
-	  height:1em;
-	  
-  }
+  
   
   
   #menu{
 	
 	 background-color:#000000;
 	 color: #FFFFFF;
-	 width:100%;
+
 	 
 	 
 		
   }
   
-  td.menu{
-	
-	  width:20%;
-	  
-  }
   
   a.menu{
 	  background-color:#000000;

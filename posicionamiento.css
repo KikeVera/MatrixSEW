@@ -1,0 +1,73 @@
+body{
+	 position:relative;
+	 text-align:left;
+	line-height: 1.5;
+}
+
+h1{
+	
+	  padding: 1.8em 1em;
+	  position:relative;
+	  text-align:center;
+}
+
+h2{
+	position:relative;
+	text-align:center;
+}
+
+h3{
+	position:relative;
+	text-align:left;
+}
+
+h4{
+	position:relative;
+	text-align:left;
+}
+
+section.lista{
+	position:relative;
+	text-align:left;
+}
+
+
+
+
+figure.portada{
+	position:relative;
+	text-align:center;
+}
+
+
+figure.trailer{
+	position:relative;
+	text-align:center;
+}
+
+table.banda{
+	 
+	 position:relative;
+	 text-align:center;
+	
+	  margin:0 auto;
+	
+ }
+
+ #menu{
+	 position: relative;
+	 table-layout: fixed;
+	 width:100%;
+	 text-align:center;
+	 
+ }
+ 
+ audio{
+	 height:1em;
+ }
+ 
+
+ 
+ 
+ 
+ 
